@@ -10,7 +10,7 @@ title: Home
 
 <center><img src="1013643_828488670527520_6858547805805754630_n.png" width=250 height="150" ></center>
 
-<h1>Welcome to GLUG-NITH</h1>
+<h1>Welcome to our amazing GLUG-NITH</h1>
 
 <h2>GNU/Linux User Group NIT Hamirpur</h2>
 
